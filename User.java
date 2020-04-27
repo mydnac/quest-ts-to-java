@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public class User{
-    private Date birthdate;
-    private int size;
-    private ArrayList<String> Photos;
-    private Address address; 
+    public Date birthdate;
+    public int size;
+    public ArrayList<Photo> photos;
+    public Address address; 
 }

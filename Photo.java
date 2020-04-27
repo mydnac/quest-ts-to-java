@@ -1,6 +1,6 @@
 public class Photo {
-    private String url;
-    private String filename;
-    private int width;
-    private int height;
+    public String url;
+    public String filename;
+    public int width;
+    public int height;
 }
